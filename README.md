@@ -2,7 +2,7 @@
 
 Robotic Process Automation (RPA) is commonly used to automate repetitive tasks where there are no public APIs available.
 
-When looking into Robocorp / Robocloud and learning the platform, I was looking for a useful use case, so I picked a use case that was asked about in the Auth0 a few times:
+When looking into Robocorp / Robocloud and learning the platform, I was looking for a useful use case, so I picked a use case that was asked about in the Auth0 community a few times:
 
 How to create an Auth0 tenant programmatically?
 
